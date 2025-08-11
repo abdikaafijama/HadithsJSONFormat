@@ -1,11 +1,12 @@
-[
+﻿[
   {
     "collection": "riyadussalihin",
     "book": "2 The Book About the Etiquette of Eating كتـــــاب أدب الطعام",
     "reference": "Reference : Riyad as-Salihin 727 In-book reference : Book 2, Hadith 1",
     "grade": "",
     "arabic": "عن عمر بن أبى سلمة رضى الله عنهما قال: قال لي رسول الله صلى الله عليه وسلم: \"سم الله وكل بيمينك، وكل مما يليك\" . ((متفق عليه))",
-    "english": "'Umar bin Abu Salamah (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم), said to me, \"Mention Allah's Name (i.e., say Bismillah before starting eating), eat with your right hand, and eat from what is near you.\" [Al-Bukhari and Muslim] ."
+    "english": "'Umar bin Abu Salamah (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم), said to me, \"Mention Allah's Name (i.e., say Bismillah before starting eating), eat with your right hand, and eat from what is near you.\" [Al-Bukhari and Muslim] .",
+    "id": 1
   },
   {
     "collection": "riyadussalihin",
@@ -13,7 +14,8 @@
     "reference": "Reference : Riyad as-Salihin 728 In-book reference : Book 2, Hadith 2",
     "grade": "",
     "arabic": "وعن عائشة رضى الله عنها قالت : قال رسول الله صلى الله عليه وسلم: \"إذا أكل أحدكم فليذكر اسم الله تعالى، فإذا نسى أن يذكر اسم الله تعالى في أوله، فليقل، بسم الله أوله وآخره\" . ((رواه أبو داود والترمذي))",
-    "english": "'Aishah (May Allah be pleased with her) reported: Messenger of Allah (صلى الله عليه وسلم) said, \"When any of you wants to eat, he should mention the Name of Allah in the begining, (i.e., say Bismillah). If he forgets to do it in the beginning, he should say Bismillah awwalahu wa akhirahu (I begin with the Name of Allah at the beginning and at the end).\" [At-Tirmidhi and Abu Dawud] ."
+    "english": "'Aishah (May Allah be pleased with her) reported: Messenger of Allah (صلى الله عليه وسلم) said, \"When any of you wants to eat, he should mention the Name of Allah in the begining, (i.e., say Bismillah). If he forgets to do it in the beginning, he should say Bismillah awwalahu wa akhirahu (I begin with the Name of Allah at the beginning and at the end).\" [At-Tirmidhi and Abu Dawud] .",
+    "id": 2
   },
   {
     "collection": "riyadussalihin",
@@ -21,7 +23,8 @@
     "reference": "Reference : Riyad as-Salihin 729 In-book reference : Book 2, Hadith 3",
     "grade": "",
     "arabic": "وعن جابر، رضى الله عنه قال: سمعت رسول الله صلى الله عليه وسلم يقول: \"إذا دخل الرجل بيته، فذكر الله تعالى عند دخوله وعند طعامه، قال الشيطان لأصحابه: لا مبيت لكم ولا عشاء، وإذا دخل ، فلم يذكر الله تعالى عند دخوله، قال الشيطان: أدركتم المبيت؛ وإذا لم يذكر الله تعالى عند طعامه قال: أدركتم المبيت والعشاء\" . ((رواه مسلم))",
-    "english": "Jabir (May Allah be pleased with him) reported: I heard Messenger of Allah (صلى الله عليه وسلم) saying, \"If a person mentions the Name of Allah upon entering his house or eating, Satan says, addressing his followers: 'You will find no where to spend the night and no dinner.' But if he enters without mentioning the Name of Allah, Satan says (to his followers); 'You have found (a place) to spend the night in, and if he does not mention the Name of Allah at the time of eating, Satan says: 'You have found (a place) to spend the night in as well as food.\"' [Muslim] ."
+    "english": "Jabir (May Allah be pleased with him) reported: I heard Messenger of Allah (صلى الله عليه وسلم) saying, \"If a person mentions the Name of Allah upon entering his house or eating, Satan says, addressing his followers: 'You will find no where to spend the night and no dinner.' But if he enters without mentioning the Name of Allah, Satan says (to his followers); 'You have found (a place) to spend the night in, and if he does not mention the Name of Allah at the time of eating, Satan says: 'You have found (a place) to spend the night in as well as food.\"' [Muslim] .",
+    "id": 3
   },
   {
     "collection": "riyadussalihin",
@@ -29,7 +32,8 @@
     "reference": "Reference : Riyad as-Salihin 730 In-book reference : Book 2, Hadith 4",
     "grade": "",
     "arabic": "وعن حذيفة رضى الله عنه قال: كنا إذا حضرنا مع رسول الله صلى الله عليه وسلم طعاماً، لم نضع أيدينا حتى يبدأ رسول الله صلى الله عليه وسلم فيضع يده. وإنا حضرنا معه مرةً طعاماً، فجاءت جارية كأنها تدفع، فذهبت لتضع يدها في الطعام، فأخذ رسول الله صلى الله عليه وسلم بيدها، ثم جاء أعرابي كأنما يدفع فأخذ بيده، فقال رسول الله صلى الله عليه وسلم: \"إن الشيطان يستحل الطعام أن لا يذكر اسم الله تعالى عليه، وإنه جاء بهذه الجارية ليستحل بها، فأخذت بيدها، فجاء بهذا الأعرابي ليستحل به، فأخذت بيده، والذي نفسي بيده إن يده في يدي مع يديهما\" ثم ذكر اسم الله تعالى وأكل. ((رواه مسلم))",
-    "english": "Hudhaifah (May Allah be pleased with him) reported: When we attended a meal with the Messenger of Allah (صلى الله عليه وسلم), we would not stretch forth our hands towards the food until he (صلى الله عليه وسلم) would start eating first. Once, we were with him when a little girl rushed in as if someone was impelling her. She was about to lay her hand on the food when the Messenger of Allah (صلى الله عليه وسلم) caught her hand. Then a bedouin came in rushing as if someone were pushing him. He (صلى الله عليه وسلم) caught his hand also and said, \"Satan considers that food lawful for himself on which the Name of Allah is not mentioned. He (Satan) brought this girl to make the food lawful through her but I caught her hand. Then he brought the bedouin to make it lawful through him but I caught his hand too. By Him in Whose Hand my soul is, now Satan's hand is in my grasp along with their hands.\" Then he mentioned the Name of Allah and began to eat. [Muslim] ."
+    "english": "Hudhaifah (May Allah be pleased with him) reported: When we attended a meal with the Messenger of Allah (صلى الله عليه وسلم), we would not stretch forth our hands towards the food until he (صلى الله عليه وسلم) would start eating first. Once, we were with him when a little girl rushed in as if someone was impelling her. She was about to lay her hand on the food when the Messenger of Allah (صلى الله عليه وسلم) caught her hand. Then a bedouin came in rushing as if someone were pushing him. He (صلى الله عليه وسلم) caught his hand also and said, \"Satan considers that food lawful for himself on which the Name of Allah is not mentioned. He (Satan) brought this girl to make the food lawful through her but I caught her hand. Then he brought the bedouin to make it lawful through him but I caught his hand too. By Him in Whose Hand my soul is, now Satan's hand is in my grasp along with their hands.\" Then he mentioned the Name of Allah and began to eat. [Muslim] .",
+    "id": 4
   },
   {
     "collection": "riyadussalihin",
@@ -37,7 +41,8 @@
     "reference": "Reference : Riyad as-Salihin 731 In-book reference : Book 2, Hadith 5",
     "grade": "",
     "arabic": "وعن أمية بن مخشى الصحابي رضى الله عنه قال: كان رسول الله صلى الله عليه وسلم جالساً ، ورجل يأكل، فلم يسم الله حتى لم يبق من طعامه إلا لقمة، فلما رفعها إلى فيه، قال: بسم الله أوله وآخره، فضحك النبي صلى الله عليه وسلم، ثم قال: \"ما زال الشيطان يأكل معه، فلما ذكر اسم الله استقاء ما فيه بطنه\" . ((رواه أبو داود والنسائي))",
-    "english": "Umaiyyah bin Makhshi (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم) was sitting while a man was eating food. That man did not mention the Name of Allah (before commencing to eat) till only a morsel of food was left. When he raised it to his mouth, he said: \"Bismillah awwalahu wa akhirahu (With the Name of Allah, in the beginning and in the end).\" Messenger of Allah (صلى الله عليه وسلم) smiled at this and said, \"Satan had been eating with him but when he mentioned the Name of Allah, Satan vomited all that was in his stomach.\" [Abu Dawud and An-Nasa'i] ."
+    "english": "Umaiyyah bin Makhshi (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم) was sitting while a man was eating food. That man did not mention the Name of Allah (before commencing to eat) till only a morsel of food was left. When he raised it to his mouth, he said: \"Bismillah awwalahu wa akhirahu (With the Name of Allah, in the beginning and in the end).\" Messenger of Allah (صلى الله عليه وسلم) smiled at this and said, \"Satan had been eating with him but when he mentioned the Name of Allah, Satan vomited all that was in his stomach.\" [Abu Dawud and An-Nasa'i] .",
+    "id": 5
   },
   {
     "collection": "riyadussalihin",
@@ -45,7 +50,8 @@
     "reference": "Reference : Riyad as-Salihin 732 In-book reference : Book 2, Hadith 6",
     "grade": "",
     "arabic": "وعن عائشة رضى الله عنها قالت: كان رسول الله صلى الله عليه وسلم يأكل طعاماً في ستة من أصحابه، فجاء أعرابى، فأكله بلقمتين. فقال رسول الله صلى الله عليه وسلم \"أما إنه لو سمى لكفاكم\" .((رواه الترمذي))",
-    "english": "'Aishah (May Allah be pleased with her) reported: The Messenger of Allah (صلى الله عليه وسلم) was eating with his six Companions when a desert Arab came and ate up the food in two mouthfuls. Messenger of Allah (صلى الله عليه وسلم) said, \"Had he mentioned the Name of Allah, it would have sufficed for all of you.\" [At-Tirmidhi] ."
+    "english": "'Aishah (May Allah be pleased with her) reported: The Messenger of Allah (صلى الله عليه وسلم) was eating with his six Companions when a desert Arab came and ate up the food in two mouthfuls. Messenger of Allah (صلى الله عليه وسلم) said, \"Had he mentioned the Name of Allah, it would have sufficed for all of you.\" [At-Tirmidhi] .",
+    "id": 6
   },
   {
     "collection": "riyadussalihin",
@@ -53,7 +59,8 @@
     "reference": "Reference : Riyad as-Salihin 733 In-book reference : Book 2, Hadith 7",
     "grade": "",
     "arabic": "وعن أبى أمامة رضى الله عنه أن النبي صلى الله عليه وسلم كان إذا رفع مائدته قال: \"الحمد لله حمداً كثيراً طَيِّباً مباركاً فيه، غير مكفى ولامودع، ولا مستغنى عنه ربنا\" .((رواه البخارى))",
-    "english": "Abu Umamah (May Allah be pleased with him) reported: Whenever the Prophet (صلى الله عليه وسلم) finished a meal, he would say: \"Al-hamdu lillahi hamdan kathiran taiyyiban mubarakan fihi, ghaira makfiyyin wa la muwadda`in, wa la mustaghnan `anhu, Rabbuna. (All praise is due to Allah, praise which is abundant, pure, and full of blessings, which is indispensable and to which one cannot be indifferent).'' [Al-Bukhari] ."
+    "english": "Abu Umamah (May Allah be pleased with him) reported: Whenever the Prophet (صلى الله عليه وسلم) finished a meal, he would say: \"Al-hamdu lillahi hamdan kathiran taiyyiban mubarakan fihi, ghaira makfiyyin wa la muwadda`in, wa la mustaghnan `anhu, Rabbuna. (All praise is due to Allah, praise which is abundant, pure, and full of blessings, which is indispensable and to which one cannot be indifferent).'' [Al-Bukhari] .",
+    "id": 7
   },
   {
     "collection": "riyadussalihin",
@@ -61,7 +68,8 @@
     "reference": "Reference : Riyad as-Salihin 734 In-book reference : Book 2, Hadith 8",
     "grade": "",
     "arabic": "وعن معاذ بن أنس رضى الله عنه قال: قال رسول الله صلى الله عليه وسلم: \"من أكل طعاماً فقال: الحمد الله الذي أطعمني هذا، ورزقنيه من غير حول منى ولا قوةٍ، غفر له ما تقدم من ذنبه\" .((رواه أبو داود والترمذي))",
-    "english": "Mu'adh bin Anas (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم) said, \"He who has taken food and says at the end: 'Al- hamdu lillahi-lladhi at'amani hadha, wa razaqanihi min ghairi haulin minni wa la quwwatin (All praise is due to Allah Who has given me food to eat and provided it without any endeavour on my part or any power),' all his past sins will be forgiven.\" [Abu Dawud and At- Tirmidhi] ."
+    "english": "Mu'adh bin Anas (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم) said, \"He who has taken food and says at the end: 'Al- hamdu lillahi-lladhi at'amani hadha, wa razaqanihi min ghairi haulin minni wa la quwwatin (All praise is due to Allah Who has given me food to eat and provided it without any endeavour on my part or any power),' all his past sins will be forgiven.\" [Abu Dawud and At- Tirmidhi] .",
+    "id": 8
   },
   {
     "collection": "riyadussalihin",
@@ -69,7 +77,8 @@
     "reference": "Reference : Riyad as-Salihin 735 In-book reference : Book 2, Hadith 9",
     "grade": "",
     "arabic": "وعن أبى هريرة رضى الله عنه قال: \"ما عاب رسول الله صلى الله عليه وسلم طعاماً قط، إن اشتهاه أكله، وإن كرهه تركه\" . ((متفق عليه))",
-    "english": "Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم) never found fault with food. If he had inclination to eating it, he would eat; and if he disliked it, he would leave it. [Al-Bukhari and Muslim] ."
+    "english": "Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم) never found fault with food. If he had inclination to eating it, he would eat; and if he disliked it, he would leave it. [Al-Bukhari and Muslim] .",
+    "id": 9
   },
   {
     "collection": "riyadussalihin",
@@ -77,7 +86,8 @@
     "reference": "Reference : Riyad as-Salihin 736 In-book reference : Book 2, Hadith 10",
     "grade": "",
     "arabic": "وعن جابر رضى الله عنه أن النبي صلى الله عليه وسلم سأل أهله الأدم فقالوا: ما عندنا إلا خل، فدعا به، فجعل يأكل ويقول: \"نعم الأدم الخل، نعم الأدم الخل\" .((رواه مسلم))",
-    "english": "Jabir (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) asked for sauce and was told that there was nothing except vinegar. He asked for it and began to eat from it saying, \"How excellent is vinegar when eaten as sauce! How excellent is vinegar when eaten as Udm!\" [Muslim] ."
+    "english": "Jabir (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) asked for sauce and was told that there was nothing except vinegar. He asked for it and began to eat from it saying, \"How excellent is vinegar when eaten as sauce! How excellent is vinegar when eaten as Udm!\" [Muslim] .",
+    "id": 10
   },
   {
     "collection": "riyadussalihin",
@@ -85,7 +95,8 @@
     "reference": "Reference : Riyad as-Salihin 737 In-book reference : Book 2, Hadith 11",
     "grade": "",
     "arabic": "عن أبى هريرة رضى الله عنه قال: قال رسول الله صلى الله عليه وسلم : \"إذا دعي أحدكم ، فليجب، فإن كان صائما فليصل، وإن كان مفطراً فليطعم\" .((رواه مسلم))",
-    "english": "Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"When any of you is invited to a meal, he should accept the invitation. If he is observing Saum (fasting), he should supplicate for the betterment of the host and if he is not fasting, he should eat.\" [Muslim] ."
+    "english": "Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"When any of you is invited to a meal, he should accept the invitation. If he is observing Saum (fasting), he should supplicate for the betterment of the host and if he is not fasting, he should eat.\" [Muslim] .",
+    "id": 11
   },
   {
     "collection": "riyadussalihin",
@@ -93,7 +104,8 @@
     "reference": "Reference : Riyad as-Salihin 738 In-book reference : Book 2, Hadith 12",
     "grade": "",
     "arabic": "عن أبى مسعود البدرى رضى الله عنه قال: دعا رجل النبي صلى الله عليه وسلم لطعام صنعه له خامس خمسة، فتبعهم رجل، فلما بلغ الباب، قال النبي صلى الله عليه وسلم: \"إن هذا تبعنا؛ فإن شئت أن تأذن له، وإن شئت رجع\" قال: بل آذن له يا رسول الله .((متفق عليه))",
-    "english": "Abu Mas'ud Al-Badri (May Allah be pleased with him) reported: A man prepared some food especially for the Prophet (صلى الله عليه وسلم) and invited him along with four others. But a man accompanied him. Having arrived at the door, Messenger of Allah (صلى الله عليه وسلم) said to the host, \"This person has followed us. You may allow him, if you like, and if you like he will return.\" He said: \"O Messenger of Allah, I allow him, too.\" [Al-Bukhari and Muslim] ."
+    "english": "Abu Mas'ud Al-Badri (May Allah be pleased with him) reported: A man prepared some food especially for the Prophet (صلى الله عليه وسلم) and invited him along with four others. But a man accompanied him. Having arrived at the door, Messenger of Allah (صلى الله عليه وسلم) said to the host, \"This person has followed us. You may allow him, if you like, and if you like he will return.\" He said: \"O Messenger of Allah, I allow him, too.\" [Al-Bukhari and Muslim] .",
+    "id": 12
   },
   {
     "collection": "riyadussalihin",
@@ -101,7 +113,8 @@
     "reference": "Reference : Riyad as-Salihin 739 In-book reference : Book 2, Hadith 13",
     "grade": "",
     "arabic": "عن عمر بن أبى سلمة رضى الله عنهما قال: كنت غلاماً في حجر رسول الله صلى الله عليه وسلم، وكانت يدي تطيش في الصحفة، فقال لي رسول الله صلى الله عليه وسلم: \" يا غلام سم الله تعالى، وكل بيمينك،وكل مما يليك\" .((متفق عليه))",
-    "english": "'Umar bin Abu Salamah (May Allah be pleased with them) reported: I was a boy under the care of Messenger of Allah (صلى الله عليه وسلم), and as my hand used to wander around in the dish, he (صلى الله عليه وسلم) said to me once, \"Mention Allah's Name (i.e., say Bismillah), eat with your right hand, and eat from what is in front of you.\" [Al-Bukhari and Muslim] ."
+    "english": "'Umar bin Abu Salamah (May Allah be pleased with them) reported: I was a boy under the care of Messenger of Allah (صلى الله عليه وسلم), and as my hand used to wander around in the dish, he (صلى الله عليه وسلم) said to me once, \"Mention Allah's Name (i.e., say Bismillah), eat with your right hand, and eat from what is in front of you.\" [Al-Bukhari and Muslim] .",
+    "id": 13
   },
   {
     "collection": "riyadussalihin",
@@ -109,7 +122,8 @@
     "reference": "Reference : Riyad as-Salihin 740 In-book reference : Book 2, Hadith 14",
     "grade": "",
     "arabic": "وعن سلمةَ بن الأَكْوَع أنَّ رَجُلاً أَكَلَ عِنْدَ رَسُولِ الله بِشِمَالِهِ ، فَقَالَ : « كُلْ بِيَمِينِكَ » قَالَ : لا أسْتَطِيعُ . قَالَ : « لا اسْتَطَعْتَ » ! مَا مَنَعَهُ إِلا الكِبْرُ ! فَمَا رَفَعَهَا إِلَى فِيهِ . ((رواه مسلم))",
-    "english": "Salamah bin Al-Akwa' (May Allah be pleased with him) reported on the authority of his father: A man ate with his left hand in the presence of Messenger of Allah (صلى الله عليه وسلم), whereupon he said, \"Eat with your right hand.\" The man said: \"I cannot do that.\" Thereupon he (the Prophet (صلى الله عليه وسلم)) said, \"May you not be able to do that.\" It was vanity that prevented him from doing it and he could not raise it (the right hand) up to his mouth afterwards. [Muslim] ."
+    "english": "Salamah bin Al-Akwa' (May Allah be pleased with him) reported on the authority of his father: A man ate with his left hand in the presence of Messenger of Allah (صلى الله عليه وسلم), whereupon he said, \"Eat with your right hand.\" The man said: \"I cannot do that.\" Thereupon he (the Prophet (صلى الله عليه وسلم)) said, \"May you not be able to do that.\" It was vanity that prevented him from doing it and he could not raise it (the right hand) up to his mouth afterwards. [Muslim] .",
+    "id": 14
   },
   {
     "collection": "riyadussalihin",
@@ -117,7 +131,8 @@
     "reference": "Reference : Riyad as-Salihin 741 In-book reference : Book 2, Hadith 15",
     "grade": "",
     "arabic": "عن جبلة بن سحيم قال: أصابنا عام سنةٍ مع ابن الزبير، فرزقنا تمراً، وكان عبد الله بن عمر رضى الله عنهما يمر بنا ونحن نأكل، فيقول: لا تقارونوا، فإن النبى نهى عن الإقران، ثم يقول: \"إلا أن يستأذن الرجل أخاه\" ((متفق عليه))",
-    "english": "Jabalah bin Suhaim reported: We were with 'Abdullah bin Az-Zubair (May Allah be pleased with them) in a time of famine, then we were provided with dates. (Once) when we were eating, 'Abdullah bin 'Umar (May Allah be pleased with them) passed by us and said: \"Do not eat two dates together, for Messenger of Allah (صلى الله عليه وسلم) prohibited it, unless one seeks permission from his brother (partner).\" [Al-Bukhari and Muslim] ."
+    "english": "Jabalah bin Suhaim reported: We were with 'Abdullah bin Az-Zubair (May Allah be pleased with them) in a time of famine, then we were provided with dates. (Once) when we were eating, 'Abdullah bin 'Umar (May Allah be pleased with them) passed by us and said: \"Do not eat two dates together, for Messenger of Allah (صلى الله عليه وسلم) prohibited it, unless one seeks permission from his brother (partner).\" [Al-Bukhari and Muslim] .",
+    "id": 15
   },
   {
     "collection": "riyadussalihin",
@@ -125,7 +140,8 @@
     "reference": "Reference : Riyad as-Salihin 742 In-book reference : Book 2, Hadith 16",
     "grade": "",
     "arabic": "عن وحشى بن حرب رضى الله عنه أن أصحاب رسول الله صلى الله عليه وسلم قالوا: يا رسول الله ، إنا نأكل ولا نشبع قال: \"فلعلكم تفترقون\" قالوا: نعم. قال: فاجتمعوا على طعامكم، واذكروا اسم الله ، يبارك لكم فيه\" ((رواه أبو داود))",
-    "english": "Wahshi bin Harb (May Allah be pleased with him) reported: Some of the Companions of Messenger of Allah (صلى الله عليه وسلم) said: \"We eat but are not satisfied.\" He (صلى الله عليه وسلم) said, \"Perhaps you eat separately.\" The Companions replied in affirmative. He then said: \"Eat together and mention the Name of Allah over your food. It will be blessed for you.\" [Abu Dawud] ."
+    "english": "Wahshi bin Harb (May Allah be pleased with him) reported: Some of the Companions of Messenger of Allah (صلى الله عليه وسلم) said: \"We eat but are not satisfied.\" He (صلى الله عليه وسلم) said, \"Perhaps you eat separately.\" The Companions replied in affirmative. He then said: \"Eat together and mention the Name of Allah over your food. It will be blessed for you.\" [Abu Dawud] .",
+    "id": 16
   },
   {
     "collection": "riyadussalihin",
@@ -133,7 +149,8 @@
     "reference": "Reference : Riyad as-Salihin 743 In-book reference : Book 2, Hadith 17",
     "grade": "",
     "arabic": "وعن ابن عباس رضى الله عنهما عن النبي صلى الله عليه وسلم قال: \"البركة تنزل وسط الطعام، فكلوا من حافتيه ولا تأكلوا من وسطه\" .((رواه أبو داود والترمذي))",
-    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: The Prophet (صلى الله عليه وسلم) said, \"Blessing descends upon food in its middle, so eat from the sides of the vessel and do not eat from its middle.\" [Abu Dawud and At-Tirmidhi] ."
+    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: The Prophet (صلى الله عليه وسلم) said, \"Blessing descends upon food in its middle, so eat from the sides of the vessel and do not eat from its middle.\" [Abu Dawud and At-Tirmidhi] .",
+    "id": 17
   },
   {
     "collection": "riyadussalihin",
@@ -141,7 +158,8 @@
     "reference": "Reference : Riyad as-Salihin 744 In-book reference : Book 2, Hadith 18",
     "grade": "",
     "arabic": "وعن عبد الله بن بشر رضى الله عنه قال: كان للنبي صلى الله عليه وسلم قصعة يقال لها: الغراء، يحملها أربعة رجال، فلما أضحوا وسجدوا الضحى أتى بتلك القصعة، يعنى وقد ثرد فيها، فالتقوا عليه ، فلما كثروا جثا رسول الله صلى الله عليه وسلم.فقال أعرابي : ما هذه الجلسة؟ قال رسول الله صلى الله عليه وسلم : إن الله جعلني عبداً كريماً، ولم يجعلني جباراً عنيداً، ثم قال رسول الله صلى الله عليه وسلم : \"كلوا من حواليها، ودعوا ذروتها يبارك فيها\" .((رواه أبو داود))",
-    "english": "'Abdullah bin Busr (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) had a large bowl called Al-Gharra', which would be carried by four men. One day, when the Companions finished their Duha (forenoon optional) prayer, Al-Gharra' was brought full of sopped bread, meat and broth, and they sat down around it. When their number increased, Messenger of Allah (صلى الله عليه وسلم) sat down on his knees and rested on the soles of his feet. A bedouin said to him: \"What sort of sitting is that?\" Thereupon Messenger of Allah (صلى الله عليه وسلم) said, \"Verily, Allah has made me a courteous slave not a fierce tyrant.\" Then he said, \"Eat from the sides of the bowl and leave the central part of it so that your food will be blessed.\" [Abu Dawud] ."
+    "english": "'Abdullah bin Busr (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) had a large bowl called Al-Gharra', which would be carried by four men. One day, when the Companions finished their Duha (forenoon optional) prayer, Al-Gharra' was brought full of sopped bread, meat and broth, and they sat down around it. When their number increased, Messenger of Allah (صلى الله عليه وسلم) sat down on his knees and rested on the soles of his feet. A bedouin said to him: \"What sort of sitting is that?\" Thereupon Messenger of Allah (صلى الله عليه وسلم) said, \"Verily, Allah has made me a courteous slave not a fierce tyrant.\" Then he said, \"Eat from the sides of the bowl and leave the central part of it so that your food will be blessed.\" [Abu Dawud] .",
+    "id": 18
   },
   {
     "collection": "riyadussalihin",
@@ -149,7 +167,8 @@
     "reference": "Reference : Riyad as-Salihin 745 In-book reference : Book 2, Hadith 19",
     "grade": "",
     "arabic": "عن أبى جحيفة وهب بن عبد الله رضى الله عنه قال: قال رسول الله صلى الله عليه وسلم: \" لا آكل متكئاً\" .((رواه البخارى))",
-    "english": "Abu Juhaifah Wahb bin 'Abdullah (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم) said, \"I do not eat reclining (against a pillow).\" [Al-Bukhari] ."
+    "english": "Abu Juhaifah Wahb bin 'Abdullah (May Allah be pleased with him) reported: Messenger of Allah (صلى الله عليه وسلم) said, \"I do not eat reclining (against a pillow).\" [Al-Bukhari] .",
+    "id": 19
   },
   {
     "collection": "riyadussalihin",
@@ -157,7 +176,8 @@
     "reference": "Reference : Riyad as-Salihin 746 In-book reference : Book 2, Hadith 20",
     "grade": "",
     "arabic": "وعن أنس رضى الله عنه قال: رأيت رسول الله صلى الله عليه وسلم جالساً مقعياً يأكل تمراً. ((رواه مسلم))",
-    "english": "Anas (May Allah be pleased with him) reported: I saw Messenger of Allah (صلى الله عليه وسلم) eating some dates while sitting on his buttocks, with his legs raised. [Muslim] ."
+    "english": "Anas (May Allah be pleased with him) reported: I saw Messenger of Allah (صلى الله عليه وسلم) eating some dates while sitting on his buttocks, with his legs raised. [Muslim] .",
+    "id": 20
   },
   {
     "collection": "riyadussalihin",
@@ -165,7 +185,8 @@
     "reference": "Reference : Riyad as-Salihin 747 In-book reference : Book 2, Hadith 21",
     "grade": "",
     "arabic": "عن ابن عباس رضى الله عنهما قال: قال رسول الله صلى الله عليه وسلم: \"إذا أكل أحدكم طعاماً، فلا يمسح أصابعه حتى يلعقها أو يلعقها\" . ((متفق عليه))",
-    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: Messenger of Allah (صلى الله عليه وسلم) said, \"When one of you finishes eating, he should not wipe his fingers until he has licked them himself or has given them to someone else to lick for him.\" [Al-Bukhari and Muslim] ."
+    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: Messenger of Allah (صلى الله عليه وسلم) said, \"When one of you finishes eating, he should not wipe his fingers until he has licked them himself or has given them to someone else to lick for him.\" [Al-Bukhari and Muslim] .",
+    "id": 21
   },
   {
     "collection": "riyadussalihin",
@@ -173,7 +194,8 @@
     "reference": "Reference : Riyad as-Salihin 748 In-book reference : Book 2, Hadith 22",
     "grade": "",
     "arabic": "وعن كعب بن مالك رضى الله عنه قال: رأيت رسول الله صلى الله عليه وسلم يأكل بثلاث أصابع ، فإذا فرغ لعقها.((رواه مسلم))",
-    "english": "Ka'b bin Malik (May Allah be pleased with him) reported: I saw Messenger of Allah (صلى الله عليه وسلم) eating with three fingers (i.e., the thumb, the index finger and the middle finger) and licking them after having finished the food. [Muslim] ."
+    "english": "Ka'b bin Malik (May Allah be pleased with him) reported: I saw Messenger of Allah (صلى الله عليه وسلم) eating with three fingers (i.e., the thumb, the index finger and the middle finger) and licking them after having finished the food. [Muslim] .",
+    "id": 22
   },
   {
     "collection": "riyadussalihin",
@@ -181,7 +203,8 @@
     "reference": "Reference : Riyad as-Salihin 749 In-book reference : Book 2, Hadith 23",
     "grade": "",
     "arabic": "وعن جابر رضى الله عنه أن رسول الله صلى الله عليه وسلم أمر بلعق الأصابع والصحفة، وقال: \"إنكم لا تدرون في أي طعامكم البركة\" .((رواه مسلم))",
-    "english": "Jabir (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) commanded the licking of fingers and the gleaning of the dish, saying, \"You do not know in which portion the blessing lies.\" [Muslim] ."
+    "english": "Jabir (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) commanded the licking of fingers and the gleaning of the dish, saying, \"You do not know in which portion the blessing lies.\" [Muslim] .",
+    "id": 23
   },
   {
     "collection": "riyadussalihin",
@@ -189,7 +212,8 @@
     "reference": "Reference : Riyad as-Salihin 750 In-book reference : Book 2, Hadith 24",
     "grade": "",
     "arabic": "وعنه أن رسول الله صلى الله عليه وسلم قال: \"إذا وقعت لقمة أحدكم، فليأخذها فليمط ما كان بها من أذى وليأكلها، ولا يدعها للشيطان، ولا يمسح يده بالمنديل حتى يلعق أصابعه؛ فإنه لا يدرى في أي طعامه البركة\" .((رواه مسلم))",
-    "english": "Jabir (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"When a morsel of any of you falls, he should pick it up and remove any of the dirt on it and then eat it, and should not leave it for Satan nor should wipe his hand with towel until he has licked his fingers, for he does not know in what portion of the food the blessing lies.\" [Muslim] ."
+    "english": "Jabir (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"When a morsel of any of you falls, he should pick it up and remove any of the dirt on it and then eat it, and should not leave it for Satan nor should wipe his hand with towel until he has licked his fingers, for he does not know in what portion of the food the blessing lies.\" [Muslim] .",
+    "id": 24
   },
   {
     "collection": "riyadussalihin",
@@ -197,7 +221,8 @@
     "reference": "Reference : Riyad as-Salihin 751 In-book reference : Book 2, Hadith 25",
     "grade": "",
     "arabic": "وعنه أن رسول الله صلى الله عليه وسلم قال: \"إن الشيطان يحضر أحدكم عند كل شئ من شأنه، حتى يحضره عند طعامه؛ فإذا سقطت لقمة أحدكم فليأخذها فليمط ما كان بها من أذى، ثم ليأكلها ولا يدعها للشيطان، فإذا فرغ فليلعق أصابعه؛ فإنه لا يدرى في أي طعامه البركة\" .((رواه مسلم))",
-    "english": "Jabir (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"Satan appears at every thing done by you; he appears even at one's dinner. When a morsel of any of you falls, he should pick it up and remove any dirt on it, and then eat it. He should not leave it for Satan, nor should he wipe his hand with the towel until he has licked his fingers, for he does not know in what portion of the food the blessing lies.\" [Muslim] ."
+    "english": "Jabir (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"Satan appears at every thing done by you; he appears even at one's dinner. When a morsel of any of you falls, he should pick it up and remove any dirt on it, and then eat it. He should not leave it for Satan, nor should he wipe his hand with the towel until he has licked his fingers, for he does not know in what portion of the food the blessing lies.\" [Muslim] .",
+    "id": 25
   },
   {
     "collection": "riyadussalihin",
@@ -205,7 +230,8 @@
     "reference": "Reference : Riyad as-Salihin 752 In-book reference : Book 2, Hadith 26",
     "grade": "",
     "arabic": "وعن أنس رضى الله عنه قال: كان رسول الله صلى الله عليه وسلم إذا أكل طعاماً، لعق أصابعه الثلاث، وقال:\"إذا سقطت لقمة أحدكم فليأخذها، وليمط عنها الأذى، وليأكلها،ولا يدعها للشيطان\" وأمرنا أن نسلت القصعة وقال: \"إنكم لا تدرون في أي طعامكم البركة\" .((رواه مسلم))",
-    "english": "Anas (May Allah be pleased with him) reported: Whenever the Messenger of Allah (صلى الله عليه وسلم) ate food, he would lick his three fingers and say, \"If anyone of you drops a morsel of food, he should remove any dirt that may have stuck on it and then eat it, and should not leave it for Satan.\" He (صلى الله عليه وسلم) also commanded us that we should glean the pot, saying, \"You do not know in which part of your food the blessings lies.\" [Muslim] ."
+    "english": "Anas (May Allah be pleased with him) reported: Whenever the Messenger of Allah (صلى الله عليه وسلم) ate food, he would lick his three fingers and say, \"If anyone of you drops a morsel of food, he should remove any dirt that may have stuck on it and then eat it, and should not leave it for Satan.\" He (صلى الله عليه وسلم) also commanded us that we should glean the pot, saying, \"You do not know in which part of your food the blessings lies.\" [Muslim] .",
+    "id": 26
   },
   {
     "collection": "riyadussalihin",
@@ -213,7 +239,8 @@
     "reference": "Reference : Riyad as-Salihin 753 In-book reference : Book 2, Hadith 27",
     "grade": "",
     "arabic": "وعن سعيد بن الحارث أنه سأل جابراً رضى الله عنه عن الوضوء مما مست النار، فقال: لا ، قد كنا زمن النبي صلى الله عليه وسلم لا نجد مثل ذلك الطعام إلا قليلاً، فإذا نحن وجدناه، لم يكن لنا مناديل إلا أكفنا وسواعدنا وأقدامنا، ثم نصلى ولا نتوضأ. ((رواه البخارى))",
-    "english": "Sa'id bin Al-Harith reported: I asked Jabir (May Allah be pleased with him) whether it was obligatory to make Wudu' for Salat (prayer) after eating cooked food. He said: \"No, because in the lifetime of Messenger of Allah (صلى الله عليه وسلم), such food was rarely available. We had no handkerchiefs, so when we ate such food we would wipe our fingers against our palms, forearms or (the sole of our) feet, and would offer Salat without fresh Wudu' (for prayer).\" [Al- Bukhari] ."
+    "english": "Sa'id bin Al-Harith reported: I asked Jabir (May Allah be pleased with him) whether it was obligatory to make Wudu' for Salat (prayer) after eating cooked food. He said: \"No, because in the lifetime of Messenger of Allah (صلى الله عليه وسلم), such food was rarely available. We had no handkerchiefs, so when we ate such food we would wipe our fingers against our palms, forearms or (the sole of our) feet, and would offer Salat without fresh Wudu' (for prayer).\" [Al- Bukhari] .",
+    "id": 27
   },
   {
     "collection": "riyadussalihin",
@@ -221,7 +248,8 @@
     "reference": "Reference : Riyad as-Salihin 754 In-book reference : Book 2, Hadith 28",
     "grade": "",
     "arabic": "عن أبى هريرة رضى الله عنه قال : قال رسول الله صلى الله عليه وسلم :طعام الاثنين كافي الثلاثة، وطعام الثلاثة كافي الأربعة\". ((متفق عليه))",
-    "english": "Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"The food of two persons suffices for three persons, and the food of three persons suffices for four persons.\" [Al-Bukhari and Muslim] ."
+    "english": "Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"The food of two persons suffices for three persons, and the food of three persons suffices for four persons.\" [Al-Bukhari and Muslim] .",
+    "id": 28
   },
   {
     "collection": "riyadussalihin",
@@ -229,7 +257,8 @@
     "reference": "Reference : Riyad as-Salihin 755 In-book reference : Book 2, Hadith 29",
     "grade": "",
     "arabic": "وعن جابر رضى الله عنه قال: سمعت رسول الله صلى الله عليه وسلم يقول: \"طعام الواحد يكفى الاثنين، وطعام الاثنين يكفى الأربعة، وطعام الأربعة يكفى الثمانية\" .((رواه مسلم))",
-    "english": "Jabir bin 'Abdullah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"The food of one person suffices for two, the food of two persons suffices for four persons, and the food of four persons suffices for eight persons.\" [Muslim] ."
+    "english": "Jabir bin 'Abdullah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"The food of one person suffices for two, the food of two persons suffices for four persons, and the food of four persons suffices for eight persons.\" [Muslim] .",
+    "id": 29
   },
   {
     "collection": "riyadussalihin",
@@ -237,7 +266,8 @@
     "reference": "Reference : Riyad as-Salihin 756 In-book reference : Book 2, Hadith 30",
     "grade": "",
     "arabic": "عن أنس رضى الله عنه أن رسول الله صلى الله عليه وسلم كان يتنفس في الشراب ثلاثاً.((متفق عليه))",
-    "english": "Anas (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) used to breathe three times in the course of a drink (he used to drink in three gulps). [Al-Bukhari and Muslim] ."
+    "english": "Anas (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) used to breathe three times in the course of a drink (he used to drink in three gulps). [Al-Bukhari and Muslim] .",
+    "id": 30
   },
   {
     "collection": "riyadussalihin",
@@ -245,7 +275,8 @@
     "reference": "Reference : Riyad as-Salihin 757 In-book reference : Book 2, Hadith 31",
     "grade": "",
     "arabic": "وعن ابن عباس رضى الله عنهما قال: قال رسول الله صلى الله عليه وسلم: \"لا تشربوا واحداً كشرب البعير، ولكن اشربوا مثنى وثلاث، وسموا إذا أنتم شربتم،واحمدوا إذا أنتم رفعتم\" .((رواه الترمذي))",
-    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"Do not drink in one gulp like a camel, but in two or three (gulps). Mention the Name of Allah (i.e., say Bismillah) when you start drinking and praise Him (i.e., say Al-hamdu lillah) after you have finished (drinking).\" [At- Tirmidhi] ."
+    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"Do not drink in one gulp like a camel, but in two or three (gulps). Mention the Name of Allah (i.e., say Bismillah) when you start drinking and praise Him (i.e., say Al-hamdu lillah) after you have finished (drinking).\" [At- Tirmidhi] .",
+    "id": 31
   },
   {
     "collection": "riyadussalihin",
@@ -253,7 +284,8 @@
     "reference": "Reference : Riyad as-Salihin 758 In-book reference : Book 2, Hadith 32",
     "grade": "",
     "arabic": "وعن أبى قتادة رضى الله عنه أن النبي صلى الله عليه وسلم نهى أن يتنفس في الإناء.((متفق عليه))",
-    "english": "Abu Qatadah (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) forbade breathing into the vessel while drinking. [Al-Bukhari and Muslim] ."
+    "english": "Abu Qatadah (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) forbade breathing into the vessel while drinking. [Al-Bukhari and Muslim] .",
+    "id": 32
   },
   {
     "collection": "riyadussalihin",
@@ -261,7 +293,8 @@
     "reference": "Reference : Riyad as-Salihin 759 In-book reference : Book 2, Hadith 33",
     "grade": "",
     "arabic": "وعن أنس رضى الله عنه أن رسول الله صلى الله عليه وسلم أتى بلبن قد شيب بماء، وعن يمينه أعرابي، وعن يساره أبو بكر رضى الله عنه ، فشرب، ثم أعطى الأعرابي وقال: \"الأيمن فالأيمن\" .((متفق عليه))",
-    "english": "Anas (May Allah be pleased with him) reported: Milk mixed with water was brought to the Messenger of Allah (صلى الله عليه وسلم). On his right side was sitting a bedouin and on his left was sitting Abu Bakr (May Allah be pleased with him). He (صلى الله عليه وسلم) drank from it and handed the rest to the bedouin saying, \"One who is on the right has preference, then again the one who is on the right.\" [Al-Bukhari and Muslim] ."
+    "english": "Anas (May Allah be pleased with him) reported: Milk mixed with water was brought to the Messenger of Allah (صلى الله عليه وسلم). On his right side was sitting a bedouin and on his left was sitting Abu Bakr (May Allah be pleased with him). He (صلى الله عليه وسلم) drank from it and handed the rest to the bedouin saying, \"One who is on the right has preference, then again the one who is on the right.\" [Al-Bukhari and Muslim] .",
+    "id": 33
   },
   {
     "collection": "riyadussalihin",
@@ -269,7 +302,8 @@
     "reference": "Reference : Riyad as-Salihin 760 In-book reference : Book 2, Hadith 34",
     "grade": "",
     "arabic": "وعن سهل بن سعد رضى الله عنه أن رسول الله صلى الله عليه وسلم أتى بشراب، فشرب منه وعن يمينه غلام، وعن يساره أشياخ، فقال للغلام: \"أتأذن لي أن أعطى هؤلاء.؟\" فقال الغلام: لا والله ، لا أوثر بنصيبي منك أحدا، فتله رسول الله صلى الله عليه وسلم في يده.((متفق عليه))",
-    "english": "Sahl bin Sa'd (May Allah be pleased with him) reported: A drink was brought to the Messenger of Allah (صلى الله عليه وسلم) and he drank (some) from it. On his right was a boy and on his left were some elderly people. He (صلى الله عليه وسلم) said to the boy, \"Would you permit me to give rest of this drink to these on my left?\" The boy said: \"O Messenger of Allah, I would certainly not give preference to anyone in anything that might come to me from you.\" So he (صلى الله عليه وسلم) handed over the rest of the drink to him. [Al-Bukhari and Muslim] ."
+    "english": "Sahl bin Sa'd (May Allah be pleased with him) reported: A drink was brought to the Messenger of Allah (صلى الله عليه وسلم) and he drank (some) from it. On his right was a boy and on his left were some elderly people. He (صلى الله عليه وسلم) said to the boy, \"Would you permit me to give rest of this drink to these on my left?\" The boy said: \"O Messenger of Allah, I would certainly not give preference to anyone in anything that might come to me from you.\" So he (صلى الله عليه وسلم) handed over the rest of the drink to him. [Al-Bukhari and Muslim] .",
+    "id": 34
   },
   {
     "collection": "riyadussalihin",
@@ -277,7 +311,8 @@
     "reference": "Reference : Riyad as-Salihin 761 In-book reference : Book 2, Hadith 35",
     "grade": "",
     "arabic": "عن أبى سعيد الخدرى رضى الله عنه قال : نهى رسول الله عن اختناث الأسقية : يعنى: أن تكسر أفواهها، ويشرب منها.((متفق عليه))",
-    "english": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) forbade turning the water-skin upside down and drinking directly from its mouth. [Al-Bukhari and Muslim] ."
+    "english": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) forbade turning the water-skin upside down and drinking directly from its mouth. [Al-Bukhari and Muslim] .",
+    "id": 35
   },
   {
     "collection": "riyadussalihin",
@@ -285,7 +320,8 @@
     "reference": "Reference : Riyad as-Salihin 762 In-book reference : Book 2, Hadith 36",
     "grade": "",
     "arabic": "وعن أبى هريرة رضى الله عنه قال: نهى رسول الله صلى الله عليه وسلم أن يشرب من في السقاء أو القربة.((متفق عليه))",
-    "english": "Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) prohibited drinking directly out of the mouth of a water- skin. [Al-Bukhari and Muslim] ."
+    "english": "Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) prohibited drinking directly out of the mouth of a water- skin. [Al-Bukhari and Muslim] .",
+    "id": 36
   },
   {
     "collection": "riyadussalihin",
@@ -293,7 +329,8 @@
     "reference": "Reference : Riyad as-Salihin 763 In-book reference : Book 2, Hadith 37",
     "grade": "",
     "arabic": "وعن أم ثابت كبشة بنت ثابت أخت حسان بن ثابت رضى الله عنه وعنها قالت: دخل عليَّ رسول الله صلى الله عليه وسلم، فشرب من فيّ قربة معلقة قائماً، فقمت إلى فيها فقطعته ((رواه الترمذي وقال: حديث حسن صحيح)). وإنما قطعتها لتحفظ موضع فم رَسُول اللَّهِ صلى الله عليه وسلم وتتبرك به وتصونه عن الابتذال. وهذا الحديث محمول على بيان الجواز، والحديثان السابقان لبيان الأفضل والأكمل، والله أعلم.",
-    "english": "Umm Thabit Kabshah (May Allah be pleased with her), daughter of Thabit (May Allah be pleased with him) and the sister of Hassan bin Thabit, the Prophet's poet) reported: The Messenger of Allah (صلى الله عليه وسلم) visited me and drank some water from a hanging water-skin while he was in a standing posture. So, I stood up and cut off the mouth (of that water-skin). [At- Tirmidhi] . An-Nawawi said that the reason why she did this was to preserve the part of the water-skin which the lips of Messenger of Allah (صلى الله عليه وسلم) touched, gain blessings from it, and preserve it from dishonor. This narration is understood to show permissibility whereas the previous two narrations are to show what is better and closer to perfection. Allah knows best."
+    "english": "Umm Thabit Kabshah (May Allah be pleased with her), daughter of Thabit (May Allah be pleased with him) and the sister of Hassan bin Thabit, the Prophet's poet) reported: The Messenger of Allah (صلى الله عليه وسلم) visited me and drank some water from a hanging water-skin while he was in a standing posture. So, I stood up and cut off the mouth (of that water-skin). [At- Tirmidhi] . An-Nawawi said that the reason why she did this was to preserve the part of the water-skin which the lips of Messenger of Allah (صلى الله عليه وسلم) touched, gain blessings from it, and preserve it from dishonor. This narration is understood to show permissibility whereas the previous two narrations are to show what is better and closer to perfection. Allah knows best.",
+    "id": 37
   },
   {
     "collection": "riyadussalihin",
@@ -301,7 +338,8 @@
     "reference": "Reference : Riyad as-Salihin 764 In-book reference : Book 2, Hadith 38",
     "grade": "",
     "arabic": "عن أبى سعيد الخدرى رضى الله عنه أن النبي صلى الله عليه وسلم نهى عن النفخ في الشراب، فقال رجل : القذاة أراها في الإناء؟ فقالب: \"أهرقها\" قال: إني لا أروى من نفس واحد؟ قال: \"فأبن القدح إذاً عن فيك\".((رواه الترمذي))",
-    "english": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) prohibited us blowing in the drinking water. A man said: \"O Messenger of Allah! Sometimes I see some litter floating about on the surface. What should I do then?\" He (صلى الله عليه وسلم) replied, \"Pour them out.\" Then the man said: \"My thirst is not quenched with one draught.\" Messenger of Allah (صلى الله عليه وسلم) said, \"Then put away the cup from your mouth (in between three gulps), and take breath.\" [At-Tirmidhi] ."
+    "english": "Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) prohibited us blowing in the drinking water. A man said: \"O Messenger of Allah! Sometimes I see some litter floating about on the surface. What should I do then?\" He (صلى الله عليه وسلم) replied, \"Pour them out.\" Then the man said: \"My thirst is not quenched with one draught.\" Messenger of Allah (صلى الله عليه وسلم) said, \"Then put away the cup from your mouth (in between three gulps), and take breath.\" [At-Tirmidhi] .",
+    "id": 38
   },
   {
     "collection": "riyadussalihin",
@@ -309,7 +347,8 @@
     "reference": "Reference : Riyad as-Salihin 765 In-book reference : Book 2, Hadith 39",
     "grade": "",
     "arabic": "وعن ابن عباس رضى الله عنهما أن النبي صلى الله عليه وسلم نهى أن يتنفس في الإناء، أو ينفخ فيه.((رواه الترمذي))",
-    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: The Prophet (صلى الله عليه وسلم) prohibited us from breathing into the drinking vessel or blowing in it. [At-Tirmidhi] ."
+    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: The Prophet (صلى الله عليه وسلم) prohibited us from breathing into the drinking vessel or blowing in it. [At-Tirmidhi] .",
+    "id": 39
   },
   {
     "collection": "riyadussalihin",
@@ -317,7 +356,8 @@
     "reference": "Reference : Riyad as-Salihin 766 In-book reference : Book 2, Hadith 40",
     "grade": "",
     "arabic": "وعن ابن عباس رضى الله عنهما قال: سقيت النبي صلى الله عليه وسلم من زمزم، فشرب وهو قائم .((متفق عليه))",
-    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: I served the Messenger of Allah (صلى الله عليه وسلم) Zamzam water to drink and he drank it while he was standing. [Al-Bukhari and Muslim] ."
+    "english": "Ibn 'Abbas (May Allah be pleased with them) reported: I served the Messenger of Allah (صلى الله عليه وسلم) Zamzam water to drink and he drank it while he was standing. [Al-Bukhari and Muslim] .",
+    "id": 40
   },
   {
     "collection": "riyadussalihin",
@@ -325,7 +365,8 @@
     "reference": "Reference : Riyad as-Salihin 767 In-book reference : Book 2, Hadith 41",
     "grade": "",
     "arabic": "وعن النزال بن سبرة رضى الله عنه قال: أتى علي رضى الله عنه باب الرحبة فشرب قائماً، وقال: إني رأيت رسول الله صلى الله عليه وسلم فعل كما رأيتموني فعلت.((رواه البخارى))",
-    "english": "An-Nazzal bin Sabrah (May Allah be pleased with him) reported: 'Ali bin Abu Talib (May Allah be pleased with him) arrived at Bab Ar-Rahbah (in Kufah) and drank water in a standing posture. Then he said: \"I saw the Messenger of Allah (صلى الله عليه وسلم) doing what you have seen me doing.\" [Al-Bukhari] ."
+    "english": "An-Nazzal bin Sabrah (May Allah be pleased with him) reported: 'Ali bin Abu Talib (May Allah be pleased with him) arrived at Bab Ar-Rahbah (in Kufah) and drank water in a standing posture. Then he said: \"I saw the Messenger of Allah (صلى الله عليه وسلم) doing what you have seen me doing.\" [Al-Bukhari] .",
+    "id": 41
   },
   {
     "collection": "riyadussalihin",
@@ -333,7 +374,8 @@
     "reference": "Reference : Riyad as-Salihin 768 In-book reference : Book 2, Hadith 42",
     "grade": "",
     "arabic": "وعن ابن عمر رضى الله عنهما قال:كنا نأكل على عهد رسول الله صلى الله عليه وسلم ونحن نمشى ، ونشرب ونحن قيام.((رواه الترمذي))",
-    "english": "Ibn 'Umar (May Allah be pleased with them) reported: During the lifetime of the Messenger of Allah (صلى الله عليه وسلم) we would eat while walking and would drink while standing. [At- Tirmidhi] ."
+    "english": "Ibn 'Umar (May Allah be pleased with them) reported: During the lifetime of the Messenger of Allah (صلى الله عليه وسلم) we would eat while walking and would drink while standing. [At- Tirmidhi] .",
+    "id": 42
   },
   {
     "collection": "riyadussalihin",
@@ -341,7 +383,8 @@
     "reference": "Reference : Riyad as-Salihin 769 In-book reference : Book 2, Hadith 43",
     "grade": "",
     "arabic": "وعن عمرو بن شعيب عن أبيه عن جده رضى الله عنه قال: رأيت رسول الله صلى الله عليه وسلم يشرب قائماً أو قاعداً. ((رواه الترمذي))",
-    "english": "'Amr bin Shu'aib on the authority of his father and grandfather reported: I saw Messenger of Allah (صلى الله عليه وسلم) drink standing, or sitting. [At-Tirmidhi] ."
+    "english": "'Amr bin Shu'aib on the authority of his father and grandfather reported: I saw Messenger of Allah (صلى الله عليه وسلم) drink standing, or sitting. [At-Tirmidhi] .",
+    "id": 43
   },
   {
     "collection": "riyadussalihin",
@@ -349,7 +392,8 @@
     "reference": "Reference : Riyad as-Salihin 770 In-book reference : Book 2, Hadith 44",
     "grade": "",
     "arabic": "وعن أنس رضى الله عنه عن النبي صلى الله عليه وسلم أنه نهى أن يشرب الرجل قائماً. قال قتادة: فقلنا لأنس: فالأكل؟ قال: ذلك أشر -أو أخبث- . وفى رواية له أن النبي صلى الله عليه وسلم زجر عن الشرب قائما.((رواه مسلم)) وفى رواية له أن النبي صلى الله عليه وسلم زجر عن الشرب قائماً.",
-    "english": "Anas (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) forbade us from drinking while standing. Qatadah reported: \"We asked him: 'What about eating?\"' He said: \"That is even worse, (or may be he said) more detestable.\" Another narration is: The Messenger of Allah (صلى الله عليه وسلم) reprimanded [us] for drinking while standing. [Muslim] ."
+    "english": "Anas (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) forbade us from drinking while standing. Qatadah reported: \"We asked him: 'What about eating?\"' He said: \"That is even worse, (or may be he said) more detestable.\" Another narration is: The Messenger of Allah (صلى الله عليه وسلم) reprimanded [us] for drinking while standing. [Muslim] .",
+    "id": 44
   },
   {
     "collection": "riyadussalihin",
@@ -357,7 +401,8 @@
     "reference": "Reference : Riyad as-Salihin 771 In-book reference : Book 2, Hadith 45",
     "grade": "",
     "arabic": "وعن أبى هريرة رضى الله عنه قال: قال رسول الله صلى الله عليه وسلم : لا يشربن أحد منكم قائماً، فمن نسى فليستقئ\". ((رواه مسلم))",
-    "english": "Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"None of you should drink standing; and if any one forgets, he must vomit.\" [Muslim] ."
+    "english": "Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"None of you should drink standing; and if any one forgets, he must vomit.\" [Muslim] .",
+    "id": 45
   },
   {
     "collection": "riyadussalihin",
@@ -365,7 +410,8 @@
     "reference": "Reference : Riyad as-Salihin 772 In-book reference : Book 2, Hadith 46",
     "grade": "",
     "arabic": "عن أبى قتادة رضى الله عنه عن النبي صلى الله عليه وسلم قال: \" ساقي القوم آخرهم شرباً\" . ((رواه الترمذي))",
-    "english": "Abu Qatadah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"He who serves others with drinking water should be the last to drink himself.\" [At-Tirmidhi] ."
+    "english": "Abu Qatadah (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"He who serves others with drinking water should be the last to drink himself.\" [At-Tirmidhi] .",
+    "id": 46
   },
   {
     "collection": "riyadussalihin",
@@ -373,7 +419,8 @@
     "reference": "Reference : Riyad as-Salihin 773 In-book reference : Book 2, Hadith 47",
     "grade": "",
     "arabic": "عن أنس رضى الله عنه قال: حضرت الصلاة، فقام من كان قريب الدار إلى أهله، وبقى قوم فأتى رسول الله صلى الله عليه وسلم بمخضب من حجارة، فصغر المخضب أن يبسط فيه كفه، فتوضأ القوم كلهم. قالوا: كم كنتم؟ قال: ثمانين وزيادة.((متفق عليه))، هذه رواية البخاري. وفي رواية مسلم: أن النبي صلى الله عليه وسلم دعا بإناء من ماء، فأتى بقدح رحراح فيه شئ من ماء، فوضع أصابعه فيه. قال أنس : فجعلت أنظر إلى الماء ينبع من بين أصابعه ، فحزرت من توضأ ما بين السبعين إلى الثمانين.",
-    "english": "Anas bin Malik (May Allah be pleased with him) reported: Once the time for As-Salat (the prayer) approached. Those whose houses were near, went to their houses (to perform Wudu') while some of the people remained with the Messenger of Allah (صلى الله عليه وسلم). A stone (containing some water) bowl was brought for him. It was too small for him to spread his hand over it. He performed his Wudu' and it (the water) sufficed for all the others also. Anas was asked: \"How many of you were present there?\" He said: \"Eighty or more.\" [Al-Bukhari and Muslim]. This is Al-Bukhari's version. In Muslim's version \"'that Allah's Apostle (صلى الله عليه وسلم) called for a container of water so he was given a vessel that had some water.' Anas said 'Then I started looking at the water spouting from his fingers. Then I estimated (the persons) and they were between seventy and eighty.'\""
+    "english": "Anas bin Malik (May Allah be pleased with him) reported: Once the time for As-Salat (the prayer) approached. Those whose houses were near, went to their houses (to perform Wudu') while some of the people remained with the Messenger of Allah (صلى الله عليه وسلم). A stone (containing some water) bowl was brought for him. It was too small for him to spread his hand over it. He performed his Wudu' and it (the water) sufficed for all the others also. Anas was asked: \"How many of you were present there?\" He said: \"Eighty or more.\" [Al-Bukhari and Muslim]. This is Al-Bukhari's version. In Muslim's version \"'that Allah's Apostle (صلى الله عليه وسلم) called for a container of water so he was given a vessel that had some water.' Anas said 'Then I started looking at the water spouting from his fingers. Then I estimated (the persons) and they were between seventy and eighty.'\"",
+    "id": 47
   },
   {
     "collection": "riyadussalihin",
@@ -381,7 +428,8 @@
     "reference": "Reference : Riyad as-Salihin 774 In-book reference : Book 2, Hadith 48",
     "grade": "",
     "arabic": "وعن عبد الله بن زيد رضى الله عنه قال: أتانا النبي صلى الله عليه وسلم، فأخرجنا له ماء في نور من صفر فتوضأ.((رواه البخارى))",
-    "english": "'Abdullah bin Zaid (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) visited us and we brought water for him in a brass vessel for his ablution and he performed ablution. [Al- Bukhari] ."
+    "english": "'Abdullah bin Zaid (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) visited us and we brought water for him in a brass vessel for his ablution and he performed ablution. [Al- Bukhari] .",
+    "id": 48
   },
   {
     "collection": "riyadussalihin",
@@ -389,7 +437,8 @@
     "reference": "Reference : Riyad as-Salihin 775 In-book reference : Book 2, Hadith 49",
     "grade": "",
     "arabic": "وعن جابر رضى الله عنه أن رسول الله صلى الله عليه وسلم دخل على رجل من الأنصار، ومعه صاحب له، فقال رسول الله صلى الله عليه وسلم: \"إن كان عندك ماء بات هذه الليلة في سنة وإلا كرعنا\" .((رواه البخارى))",
-    "english": "Jabir (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) visited the house of a man of the Ansar with one of his Companions and said to him, \"If you have some water in the water-skin left over from last night, give it to us for drinking; otherwise, we shall drink from some stream directly.\" [Al- Bukhari] ."
+    "english": "Jabir (May Allah be pleased with him) reported: The Messenger of Allah (صلى الله عليه وسلم) visited the house of a man of the Ansar with one of his Companions and said to him, \"If you have some water in the water-skin left over from last night, give it to us for drinking; otherwise, we shall drink from some stream directly.\" [Al- Bukhari] .",
+    "id": 49
   },
   {
     "collection": "riyadussalihin",
@@ -397,7 +446,8 @@
     "reference": "Reference : Riyad as-Salihin 776 In-book reference : Book 2, Hadith 50",
     "grade": "",
     "arabic": "وعن حذيفة رضى الله عنه قال: إن النبي صلى الله عليه وسلم نهانا عن الحرير والديباج والشرب في آنية الذهب والفضة، وقال: \"هي لهم في الدنيا، وهى لكم في الآخرة\" .((متفق عليه))",
-    "english": "Hudhaifah (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) prohibited us from wearing brocade or silk and drinking out of gold or silver vessels and said, \"These are meant for them (disbelievers) in this world and for you in the Hereafter.\" [Al-Bukhari and Muslim] ."
+    "english": "Hudhaifah (May Allah be pleased with him) reported: The Prophet (صلى الله عليه وسلم) prohibited us from wearing brocade or silk and drinking out of gold or silver vessels and said, \"These are meant for them (disbelievers) in this world and for you in the Hereafter.\" [Al-Bukhari and Muslim] .",
+    "id": 50
   },
   {
     "collection": "riyadussalihin",
@@ -405,6 +455,7 @@
     "reference": "Reference : Riyad as-Salihin 777 In-book reference : Book 2, Hadith 51",
     "grade": "",
     "arabic": "وعن أم سلمة رضى الله عنها أن رسول الله صلى الله عليه وسلم قال: \"الذي يشرب في آنية الفضة إنما يجرجر في بطنه نار جهنم\".((متفق عليه)) وفى : \"إن الذي يأكل أو يشرب في آنية الفضة والذهب\" وفى رواية له: \" من شرب في إناءٍ من ذهب أو فضة فإنما يجرجر في بطنه ناراً من جهنم.",
-    "english": "Umm Salamah (May Allah be pleased with her) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"He who drinks from the vessel of silver kindles the Fire (of Hell) in his belly.\" [Al-Bukhari and Muslim] . A narration in Muslim is: The Messenger of Allah (صلى الله عليه وسلم) said, \"Surely, he who eats or drinks in gold and silver vessels fills his belly with Hell-fire.\""
+    "english": "Umm Salamah (May Allah be pleased with her) reported: The Messenger of Allah (صلى الله عليه وسلم) said, \"He who drinks from the vessel of silver kindles the Fire (of Hell) in his belly.\" [Al-Bukhari and Muslim] . A narration in Muslim is: The Messenger of Allah (صلى الله عليه وسلم) said, \"Surely, he who eats or drinks in gold and silver vessels fills his belly with Hell-fire.\"",
+    "id": 51
   }
 ]
